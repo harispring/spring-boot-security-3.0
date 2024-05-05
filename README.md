@@ -12,3 +12,5 @@ Note : If you are using spring boot 3.1.x version then please do the below code 
                 )
                 .httpBasic(Customizer.withDefaults()).build();
     }
+
+Note: THIS IS JDBC SAVED USERS WITH ROLES AUTHENTICATION 
